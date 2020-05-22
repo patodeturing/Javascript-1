@@ -1,5 +1,7 @@
 const findNumber = function (number) {
-    //aqui escribiras tu codigo
+    anda_consu_prima = true;
+    if(anda_consu_prima === true):
+        console.log('es regio');
 }; 
 
 module.exports = findNumber;
